@@ -112,3 +112,24 @@ footer {
     }
 
   }
+
+#fejlec {
+    font-weight: bold;
+    background-color: rgb(74, 224, 174);
+}
+
+#varos1 {
+  background-color: beige;
+}
+
+#varos2 {
+    background-color: rgb(219, 219, 80);
+}
+
+#varos3 {
+    background-color: rgb(113, 241, 166);
+}
+
+#varos4 {
+    background-color: rgb(255, 136, 57);
+}
